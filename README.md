@@ -132,6 +132,7 @@ _For more examples, please refer to the [Documentation](https://docs.djangoproje
 - Hero
 - Projects section
 - Technologies
+- About & Education section
 
 <!--
     - [] Nested Feature
