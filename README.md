@@ -19,10 +19,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Weather Application</h3>
+<h3 align="center">Personal Portfolio Version 2</h3>
 
   <p align="center">
-    The purpose of this project was to create a Web Application that allows users to query weekly weather data for a small set of Ontario locations.
+    The purpose of this project was to create a clean portfolio and continue to learn React.js
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-To allow users to query weekly weather data for a small set of Ontario locations.
+Personal Portfolio Version 2.
 
 
 _For more examples, please refer to the [Documentation](https://docs.djangoproject.com/en/3.2/)_
@@ -129,14 +129,9 @@ _For more examples, please refer to the [Documentation](https://docs.djangoproje
 
 <!-- ROADMAP -->
 ## Roadmap
-- Learning how to export data from a module (e.g. module,exports=schdule)
-- As well how to import data from one module into another (e.g. const schedule=require('./schedule.js')
-- Dealing with: Client-side : Sending requests from client to the server and HTML forms
-- Server-side : Sending a web page from the server and handling advanced queries from client
-- Dynamic web pages (templates)
-- Rendering template files with embedded data
-- Embedded JavaScript (EJS)
-
+- Hero
+- Projects section
+- Technologies
 
 <!--
     - [] Nested Feature
